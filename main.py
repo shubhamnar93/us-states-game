@@ -30,4 +30,4 @@ dictionary= {
 }
 learn = pd.DataFrame(dictionary)
 learn.to_csv('state_to_learn.csv')
-screen.exitonclick()
+screen.bye()
